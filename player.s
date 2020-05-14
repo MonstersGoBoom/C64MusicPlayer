@@ -1,8 +1,11 @@
 	;------------------------------------------------------------------------------------
 	;	
 	;	Please note this was mostly to learn the process 
-	; 	also note O'Dog of Laxity you and your group FUCKING SUCK
+	; 	also note O'Dog of Laxity you and your group can FUCK right off.
+	;	Don't pre-release games for the 4kb compo which technically disqualified my entry
+	;	And killed a lot of my passion for doing C64 titles 
 	;	
+	;	Thanks to 
 	;	Frantic/Hack'n'Trade player was a point of reference when re-educating myself with SID
 	;	https://cadaver.github.io/rants/music.html this page was useful too 
 	;	

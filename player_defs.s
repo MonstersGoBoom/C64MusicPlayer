@@ -1,7 +1,7 @@
 	;------------------------------------------------------------------------------------
 	;	
 	;	Please note this was mostly to learn the process 
-	; 	also note O'Dog of Laxity you and your group FUCKING SUCK
+	; 	also note O'Dog of Laxity you and your group bunch of wankers
 	;	
 	;------------------------------------------------------------------------------------
 
